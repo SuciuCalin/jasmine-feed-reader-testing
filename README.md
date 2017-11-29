@@ -7,7 +7,7 @@ The purpose of this project is to use [Jasmine](http://jasmine.github.io/) to wr
 ## Installation
 
 ### See it live
-- Click [here](https://github.com/SuciuCalin/jasmine-feed-reader-testing) to view the test.
+- Click [here](https://suciucalin.github.io/jasmine-feed-reader-testing) to view the test.
 
 ### Run locally
 - Clone/download this repository
